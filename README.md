@@ -39,6 +39,7 @@ Student is emailed the following information once he/she exits the class :
 </p>
 </body>
 </html>
+
 ```
 - Join Time Index : Number of seconds since epoch while joining
 - Leave Time Index : Number of seconds since epoch while leaving
