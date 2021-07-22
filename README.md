@@ -52,3 +52,28 @@ Student is emailed the following information once he/she exits the class :
 
 #### Here is a sample of the email sent : 
 ![image](https://user-images.githubusercontent.com/66439372/126080489-bd63c3aa-1707-4082-932b-9f8d10156b79.png)
+
+
+
+<html>
+  <body><br>
+    <h2>Banking System</h2>
+    <p>This application is designed create a banking system, in which a user can create a account. The user is alloted a card number and a pin. The Card number is verified and checked as per the credit card security checks. The user can log in inot his/her account, upon log in the user can do the following -- </p>
+  </body>
+</html>
+
+```
+- Check Balance
+- Add money
+- Do transfer
+- Close account
+- Log account
+- Exit
+```
+
+
+<html>
+  <body>
+    <p>The funcion of each is similar to what their name suggests.</p>
+  </body>
+</html>
