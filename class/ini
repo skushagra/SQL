@@ -1,0 +1,13 @@
+#! Silicon/SQL/Classes
+
+create class myclass:
+	declare a
+	declare b
+	set a = 10
+	set b = 20
+	
+	declare add = recieve(a, b):
+		set s = a+b 
+		send(s)
+
+use class myclass
